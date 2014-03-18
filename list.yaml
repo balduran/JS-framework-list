@@ -1,0 +1,11 @@
+- name: 'datajs'
+  source: 'https://code.google.com/p/datejs/'
+  license: 'MIT'
+  website: 'http://www.datejs.com/'
+  description: 'Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.'
+
+- name: 'Hammer.js'
+  source: 'https://github.com/EightMedia/hammer.js'
+  license: ''
+  website: 'http://eightmedia.github.io/hammer.js/'
+  description: 'A javascript library for multi-touch gestures'
